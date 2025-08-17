@@ -69,5 +69,5 @@
 1. Убедитесь, что у вас есть **API-ключ Wildberries** (для работы с маркетингом — `API`).
 2. Установите зависимости:
    ```bash
-   pip install pandas dotenv requests ```
+   pip install pandas dotenv requests 
 3. Запустите файл формата **ipynb**, предварительно внеся в файл **.env** свой *API токен* .
